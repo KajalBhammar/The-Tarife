@@ -6,8 +6,6 @@ This Flask-based web application allows users to search for recipes based on key
 - Keyword-based recipe search
 - Responsive web interface
 - Integration with CSV dataset
-- Dynamic AJAX-based recipe retrieval
-- Pagination for displaying search results
 
 ## Usage
 1. Clone or download the repository.
